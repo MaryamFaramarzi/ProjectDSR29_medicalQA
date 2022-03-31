@@ -1,0 +1,7 @@
+jupyter==1.0.0
+numpy==1.22
+pandas==1.4.0
+wandb==0.12.11
+transformers==4.17.0
+	
+
