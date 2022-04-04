@@ -4,9 +4,9 @@
 
 ### Team Members
 
+- Sina Rampe
 - Maryam Faramarzi
 - Manali Manajrekar
-- Sina Rampe
 
 ## SUMMARY
 Our goal is to built a Q&A engine that gives a detailed answer to simple health questions, like those asked every day in primary care. 
